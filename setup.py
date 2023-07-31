@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='HW09_Package',
+    name='booklover',
     version='1.0.0',
-    url='https://github.com/mtvaden1/DS5100_HW09',
+    url='https://github.com/mtvaden1/booklover',
     author='Michael Vaden',
     author_email='mtv2eva@virginia.edu',
     description='Package for M09 Homework',
